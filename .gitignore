@@ -6,3 +6,4 @@ runs/
 *.npz
 *.csv
 *.jsonl
+!reports/*.csv
