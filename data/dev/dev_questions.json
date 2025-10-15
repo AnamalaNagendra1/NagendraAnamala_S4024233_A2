@@ -1,0 +1,128 @@
+[
+  {
+    "question": "Middle East // When it comes to their values, how much do you think immigrants from each of the following regions have in common with most Americans?",
+    "options": [
+      "A great deal",
+      "A fair amount",
+      "Some",
+      "Not too much",
+      "Nothing at all"
+    ]
+  },
+  {
+    "question": "Crime // What type of impact do you think immigrants living in the country illegally are having on each of the following areas?",
+    "options": [
+      "Making things better",
+      "Making things worse",
+      "Not having much effect"
+    ]
+  },
+  {
+    "question": "Do you listen to the radio?",
+    "options": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "question": "Have you ever experienced or believed in any of the following?",
+    "options": [
+      "Had a sudden feeling of connection with something from beyond this world",
+      "Had a strong feeling that someone who has passed away was communicating with you from beyond this world",
+      "Believe that spirits or unseen spiritual forces exist and have personally encountered one"
+    ]
+  },
+  {
+    "question": "What benefits do you think video games provide?",
+    "options": [
+      "Bring people joy",
+      "Provide mental stimulation",
+      "Provide stress relief",
+      "Help improve cognitive skills",
+      "Create a feeling of community"
+    ]
+  },
+  {
+    "question": "Social and cultural values // What type of impact do you think immigrants living in the country illegally are having on each of the following areas?",
+    "options": [
+      "Making things better",
+      "Making things worse",
+      "Not having much effect"
+    ]
+  },
+  {
+    "question": "People who come from countries not well represented in the U.S. // How much priority should be given to each of the following?",
+    "options": [
+      "Top priority",
+      "Some priority",
+      "No priority"
+    ]
+  },
+  {
+    "question": "Which comes closer to your view - even if neither is exactly right?",
+    "options": [
+      "Immigrants in our country today should adopt American customs and way of life",
+      "Immigrants in our country today should be able to hold on to the customs and way of life of their home country"
+    ]
+  },
+  {
+    "question": "Crime // What type of impact do you think immigrants living in the country legally are having on each of the following areas?",
+    "options": [
+      "Making things better",
+      "Making things worse",
+      "Not having much effect"
+    ]
+  },
+  {
+    "question": "Africa // When it comes to their values, how much do you think immigrants from each of the following regions have in common with most Americans?",
+    "options": [
+      "A great deal",
+      "A fair amount",
+      "Some",
+      "Not too much",
+      "Nothing at all"
+    ]
+  },
+  {
+    "question": "People who have close family members already living in the U.S. // How much priority should be given to each of the following?",
+    "options": [
+      "Top priority",
+      "Some priority",
+      "No priority"
+    ]
+  },
+  {
+    "question": "How much have you seen, read, or heard about illegal immigration in the news lately?",
+    "options": [
+      "A great deal",
+      "A fair amount",
+      "Some",
+      "Not too much",
+      "Nothing at all"
+    ]
+  },
+  {
+    "question": "How do you prefer your sandwiches to be served?",
+    "options": [
+      "Cut into rectangles",
+      "Cut into triangles",
+      "Whole and uncut"
+    ]
+  },
+  {
+    "question": "Is there at least one working telephone inside your home that is not a cell phone?",
+    "options": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "question": "How concerned are you about how Companies use the data they collect about you?",
+    "options": [
+      "Very concerned",
+      "Somewhat concerned",
+      "Not very concerned",
+      "Not at all concerned"
+    ]
+  }
+]

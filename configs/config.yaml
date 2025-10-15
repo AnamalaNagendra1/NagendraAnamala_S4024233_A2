@@ -1,0 +1,20 @@
+seed: 4024233
+outputs:
+  run_dir: runs
+  supports_k: 100
+
+data:
+  documents_path: data/dev/documents.jsonl
+  test_questions_path: data/dev/dev_questions.json
+  embedding_npz_path: data/dev/id_to_embedding.npz
+
+retrieval:
+  sparse:
+    enable: true
+    bm25_k1: 1.2
+    bm25_b: 0.75
+    topk: 150
+
+agents:
+  switches:
+    use_verifier: true
