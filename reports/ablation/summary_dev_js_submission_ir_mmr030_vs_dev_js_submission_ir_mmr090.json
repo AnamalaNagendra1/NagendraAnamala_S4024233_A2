@@ -1,0 +1,9 @@
+{
+  "n_questions": 15,
+  "avg_L1_dist": 0.0,
+  "avg_supports_jaccard": 1.0,
+  "avg_overlap_count": 100.0,
+  "in1_only": 0,
+  "in2_only": 0,
+  "csv_out": "reports\\ablation\\compare_dev_js_submission_ir_mmr030_vs_dev_js_submission_ir_mmr090.csv"
+}
