@@ -1,0 +1,29 @@
+﻿outputs:
+  run_dir: runs
+  supports_k: 100
+
+data:
+  documents_path: data/dev/documents.jsonl
+  test_questions_path: data/dev/dev_questions.json
+  embedding_npz_path: data/mini/id_to_embedding.npz
+
+retrieval:
+  sparse:
+    enable: true
+    bm25_k1: 1.2
+    bm25_b: 0.75
+    topk: 150
+  hybrid:
+    use_dense: true
+    rrf_k: 60
+    w_bm25: 0.6
+    w_dense: 0.4
+    mmr_lambda: 0.90          # <— VARIANT B
+    expansion_terms: 5
+    expansion_seed_topN: 30
+
+agents:
+  switches:
+    use_verifier: true
+    max_loops: 1
+    min_unique_ratio: 0.95
